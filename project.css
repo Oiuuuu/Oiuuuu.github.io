@@ -1,0 +1,61 @@
+h1 {
+    color:;
+    font-family: sans-serif;
+}
+
+#button {
+    background-color: grey;
+    padding:10px;
+    border: 1px solid black;
+    display:inline-block;
+    border-bottom-right-radius: 10px
+}
+
+header {
+    border-style: ridge;
+    color:  gray;
+    width:860px;
+
+}
+
+header {
+    border-style: ridge;
+    color:  gray;
+    width:860px;
+
+}
+
+#logo {
+    width:160px;
+    height:120px;
+}
+
+nav a {
+  background-color:rgb(212, 116, 60);
+  background-image: -webkit-linear-gradient(gray, cornsilk);
+  background-image: -moz-linear-gradient(gray, cornsilk);
+  background-image: -o-linear-gradient(gray, cornsilk);
+  background-image: linear-gradient(gray, cornsilk);
+
+  border-bottom-right-radius:20px;
+  box-shadow: 0 1px 1px rgb(144, 238, 144), inset 0 1px 0 rgb(240, 255, 240);
+  color: rgb(255, 149, 60);
+  display: inline-block;
+  font-size: 18px;
+  margin: 5px auto;
+  padding: 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 rgb(255, 255, 255);
+  width: 120px;
+}
+
+html {
+    background-color: wheat
+    
+}
+
+.a {
+    position:absolute;
+    top:0px;
+    right:45%;
+}
